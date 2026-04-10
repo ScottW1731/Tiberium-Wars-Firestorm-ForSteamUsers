@@ -61,7 +61,7 @@ IF !modversion_len! GTR 5 (
 SET "MOD_PATH=!SDK_DIR!Mods\!modname!"
 SET "BUILTMOD_PATH=!SDK_DIR!BuiltMods\Mods\!modname!"
 SET "SKUDEF_FILE=!BUILTMOD_PATH!_!modversion!.skudef"
-SET "DOC_PATH=C:\Program Files (x86)\AAASteam\steamapps\common\Command and Conquer 3 Tiberium Wars\Mods\!modname!"
+SET "DOC_PATH=C:\Program Files (x86)\AAASteam\steamapps\common\Command and Conquer 3 Tiberium Wars\Mods\Firestorm\"
 
 @ECHO.
 @ECHO --- Building Mod Data for !modname!_!modversion! ---
